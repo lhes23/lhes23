@@ -6,8 +6,7 @@ I'm a **Full-Stack Developer** and **DevOps Engineer**.
 - 🌱 Learning: Advanced Terraform, Docker and Kubernetes.
 - 💬 Ask me about: Docker, GitHub Actions, or scalable architecture
 - 📫 Reach me at: [lesterreandino@gmail.com](mailto:lesterreandino@gmail.com)
-- ⚡ Fun fact: I love solving problems and facing business challenges.
-
+- ⚡ Fun fact: I love solving problems — code or otherwise.
 ---
 
 ### 🧰 Tech Stack
