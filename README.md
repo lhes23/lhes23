@@ -37,6 +37,13 @@ I'm a **Full-Stack Developer** and **DevOps Engineer**.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhes23&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=lhes23&theme=tokyonight&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lhes23&theme=onedark&no-frame=true&margin-w=5)
+
+![Lester's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lhes23&theme=tokyo-night)
+
+
 ---
 
 ### 🤝 Connect With Me
