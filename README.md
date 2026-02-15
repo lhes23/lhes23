@@ -33,13 +33,13 @@ I'm a **Full-Stack Developer** and **DevOps Engineer**.
 ---
 
 ### 📊 GitHub Stats
-![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhes23&show_icons=true&theme=tokyonight)
+![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhes23&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhes23&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhes23&layout=compact&theme=tokyonight&cache_seconds=21600)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lhes23&theme=tokyonight&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lhes23&theme=onedark&no-frame=true&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lhes23&theme=onedark&no-frame=true&margin-w=5&cache_seconds=21600)
 
 ![Lester's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lhes23&theme=tokyo-night)
 
